@@ -1,0 +1,4 @@
+
+- Factory porque los detalles de cada tipo de cuenta no son conocidos hasta el momento de la
+creación del objeto, por ende se necesita una fabrica para manejar la creación de las
+subclases acorde a las caracteristicas propias de la construcción.
