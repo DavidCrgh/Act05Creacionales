@@ -1,6 +1,5 @@
 package Caso2;
 
-
 class GUIDaltonica extends GUIBuilder {
 
     public void buildColor(){
