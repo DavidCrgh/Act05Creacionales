@@ -1,6 +1,8 @@
 package Caso4;
 
-public class Pieza {
+public abstract class Pieza {
 
     private String color;
+
+    public void dibujarPieza() {};
 }
